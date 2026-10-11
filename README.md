@@ -77,3 +77,17 @@ It features a **PC‑based simulation webpage** that receives live telemetry via
 ---
 
 ## 📂 Repository Structure
+
+📁 Repository Structure
+
+│── gyro_dashboard.html        # Web-based simulation and visualization interface
+│
+├── src/
+│   └── gyro_stabilization_control.ino  # ESP32-S3 firmware controlling gyro and motors
+│
+├── CODE_OF_CONDUCT.md             # Contributor behavior guidelines
+├── CONTRIBUTING.md                # Instructions for contributing to the project
+├── LICENSE                        # Apache 2.0 license file
+├── README.md                      # Main project documentation
+├── SECURITY.md                    # Security policy and vulnerability reporting
+
