@@ -26,7 +26,7 @@ It features a **PC‑based simulation webpage** that receives live telemetry via
 ## 🔌 Wiring Diagram
 <img width="1544" height="1028" alt="image" src="https://github.com/user-attachments/assets/9a19d277-c9a6-43b9-9bd4-cfd8b25d0761" />
  
-![ESP32‑S3 Gyro Stabilization Wiring Diagram](docs/wiring.png)
+
 
 ---
 
@@ -63,7 +63,7 @@ It features a **PC‑based simulation webpage** that receives live telemetry via
 ## 🌐 Webpage Interface
 <img width="1222" height="1396" alt="image" src="https://github.com/user-attachments/assets/530c2f40-3592-45eb-9e6f-a28294ebd74d" />
   
-![Simulation Webpage Interface](docs/webpage.png)  
+ 
 🔗 [Live Demo / Webpage Link](https://your‑website‑link‑here)
 
 ---
