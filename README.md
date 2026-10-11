@@ -64,7 +64,7 @@ It features a **PC‑based simulation webpage** that receives live telemetry via
 <img width="1222" height="1396" alt="image" src="https://github.com/user-attachments/assets/530c2f40-3592-45eb-9e6f-a28294ebd74d" />
   
  
-🔗 [Live Demo / Webpage Link](https://your‑website‑link‑here)
+🔗 [Live Demo / Webpage Link](https://starktitan009.github.io/3-Axis-Gyro-Stabilization-Simulation/gyro_dashboard.html)
 
 ---
 
